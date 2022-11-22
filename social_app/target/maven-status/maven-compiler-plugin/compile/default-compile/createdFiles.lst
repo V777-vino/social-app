@@ -1,0 +1,8 @@
+socialapp\model\Post.class
+socialapp\service\PostValidation.class
+socialapp\db\ConnectionUtil.class
+socialapp\dao\PostDao.class
+socialapp\model\User.class
+socialapp\dao\UserDao.class
+socialapp\service\UserValidation.class
+socialapp\model\View.class

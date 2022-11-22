@@ -1,0 +1,8 @@
+socialapp\PostMessageTest.class
+socialapp\ViewAllPostTest.class
+socialapp\DeleteUserTest.class
+socialapp\UpdatePasswordTest.class
+socialapp\Menu.class
+socialapp\LoginTest.class
+socialapp\RegisterUserTest.class
+socialapp\SocialAppHome.class
